@@ -1,0 +1,16 @@
+{
+  "name": "sophon-token",
+  "version": "1.0",
+  "description": "Contracts for Sophon Token and Wrapped Sophon Token",
+  "scripts": {
+    "test": "brownie test"
+  },
+  "repository": "",
+  "author": "Sophon",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@openzeppelin/contracts": "5.0.2",
+    "@openzeppelin/contracts-upgradeable": "5.0.2",
+    "cross-env": "7.0.3"
+  }
+}

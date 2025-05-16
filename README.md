@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://portal.sophon.xyz/img/logo-sophon.svg" alt="Sophon Logo">
+</p>
+
 # Sophon Token
 
 This repository contains the smart contracts for the Sophon Token (SOPH) and its wrapped variant.

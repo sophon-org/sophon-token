@@ -52,10 +52,6 @@ forge install
 forge test
 ```
 
-### Deployment
-
-Deployment scripts are available in the `scripts` directory.
-
 ## License
 
 This project is licensed under GPL-3.0-only for `SophonToken` and MIT for `L2WETH`.

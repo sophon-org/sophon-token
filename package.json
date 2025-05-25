@@ -9,6 +9,10 @@
   "author": "Sophon",
   "license": "GPL-3.0-only",
   "devDependencies": {
+    "@layerzerolabs/lz-evm-messagelib-v2": "3.0.97",
+    "@layerzerolabs/lz-evm-protocol-v2": "3.0.97",
+    "@layerzerolabs/oapp-evm": "0.3.2",
+    "@layerzerolabs/oft-evm": "3.1.4",
     "@openzeppelin/contracts": "5.0.2",
     "@openzeppelin/contracts-upgradeable": "5.0.2",
     "cross-env": "7.0.3"
